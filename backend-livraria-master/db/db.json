@@ -1,0 +1,56 @@
+{
+  "autores": [
+    {
+      "nome": "Clarice Lispector",
+      "id": 2
+    },
+    {
+      "nome": "Maurício de Souza",
+      "id": 3
+    },
+    {
+      "nome": "Machado de Assis",
+      "id": 4
+    }
+  ],
+  "categorias": [
+    {
+      "nome": "Romance",
+      "id": 1
+    },
+    {
+      "nome": "Comédia",
+      "id": 2
+    },
+    {
+      "nome": "Clássicos",
+      "id": 3
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "Companhia da Letras",
+      "site": "https://www.companhiadasletras.com.br/",
+      "id": 1
+    },
+    {
+      "nome": "Aleph",
+      "site": "https://editoraaleph.com.br/",
+      "id": 2
+    },
+    {
+      "nome": "Darkside Books",
+      "site": "https://www.darksidebooks.com.br/",
+      "id": 3
+    }
+  ],
+  "livros": [
+    {
+      "nome": "As 48 Leis do Poder",
+      "isbn": "9788423991815",
+      "qntd": 1,
+      "preco": "37,42",
+      "id": 1
+    }
+  ]
+}
